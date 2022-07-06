@@ -1,0 +1,1 @@
+Contador feito usando JavaScript!
